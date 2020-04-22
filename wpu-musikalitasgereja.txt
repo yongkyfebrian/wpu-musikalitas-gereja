@@ -1,4 +1,5 @@
 WPU MUSIKALITAS
-- Konten Kekompakan dalam tim musik gereja
+- Jenis alat musik secara umum yang ada di gereja
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+- Membuat tata pemahaman dalam bermusik / pelayanan di gereja
